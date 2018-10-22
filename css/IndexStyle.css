@@ -1,0 +1,37 @@
+body{
+    background-color:#34495e;
+    font-family: Verdana;
+   
+}
+
+#articleSolarSystem{
+    background-color: #ffffff;
+    width: 70%;
+    padding: 7%;
+    margin:0;
+    position: relative;
+    top:30px;
+    left:120px;
+
+}
+
+article{
+    text-align: left;
+    margin-right:50%;
+}
+
+figure{
+display: block;
+position: absolute;
+right:50px;
+top:300px;
+}
+
+#planetsNavigation{
+    position: relative;
+    margin-top:50px;
+}
+
+#planetsNavigation a{
+    text-align: left;
+}

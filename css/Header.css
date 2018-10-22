@@ -1,0 +1,24 @@
+#pageNavigation{
+    background-color: #2980b9;
+    width: 100%;
+    position: fixed;
+    left:0;
+    top:0;
+    display: inline;
+    line-height: 80px;
+    text-align: center;
+    font-family: Verdana;
+}
+
+#pageLogo{
+position:fixed;
+margin-left:10%;
+margin-top:5px;
+}
+
+#pageNavigation a{
+    color: #ffffff;
+    margin-left: 10%;
+    text-decoration: none;
+    text-align: center
+}

@@ -1,0 +1,24 @@
+body{
+    background-color:#34495e;
+    font-family: Verdana;
+   
+}
+
+#Gallery{
+    background-color: #ffffff;
+    width: 80%;
+    padding: 7%;
+    margin:0;
+    position: relative;
+    top:30px;
+    left:130px;
+}
+
+#Gallery td{
+    width: 30%;
+    padding: 20px;
+}
+
+#Gallery img{
+    width: 100%;
+}
